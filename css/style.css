@@ -5,3 +5,9 @@
     --piepagina:rgb(175, 129, 129);
     --enlacesobre:rgb(54, 235, 154);
 }
+*{
+    background-color: darkgray;
+}
+header{
+    background-color: bisque;
+}
